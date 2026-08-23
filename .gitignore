@@ -1,0 +1,26 @@
+# Environments
+.env
+.env.local
+
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+alembic.ini
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
